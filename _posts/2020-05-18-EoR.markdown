@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let There be Light"
+title:  "Let There be Light: The EoR"
 date:   2020-05-18 13:07:46 -0700
 categories: pizza
 ---
@@ -16,7 +16,7 @@ hardware ever devised, this exciting period of the Universe is starting to come
 into view.
 
 ---
-
+##  
 *Now the earth was formless and void, and darkness was over the surface of the deep.*
 *And God said, “Let there be light,” and there was light.*
 *And God saw that the light was good, and He separated the light from the darkness.*
@@ -41,10 +41,11 @@ of light, and as such, the Universe became clear to light for the first time
 in its history, lifting the fog on the Universe that had been imposed on
 observers since its birth.
 
+##  
+
 <img src="{{ site.baseurl }}/assets/wmap.jpg">
 
 ---
-
 The universe at this time is a huge volume of hydrogen of nearly even density.
 However, it is not quite perfectly even in density, a property reflected today
 in a snapshot of the recombination period called the Cosmic Microwave Background
@@ -61,6 +62,8 @@ slight imperfection, however, that allows for what will soon occur to transform
 the Universe. The force now that is given sway in this uneven universe is one we
 experience every day: gravity. It is by the hand of gravity, then, that did the
 work of dividing the light from the dark to create the modern Universe.
+
+##  
 
 <img src="{{ site.baseurl }}/assets/hh24.jpg">
 
@@ -96,6 +99,8 @@ gone into this time period of history, research that has been aided by some of
 the most impressive and expansive instrumentation in astronomy, instruments that
 rival other great feats of engineering for the most impressive works that
 humanity has wrought.
+
+##  
 
 <img src="{{ site.baseurl }}/assets/arecibo.jpg">
 
@@ -140,7 +145,7 @@ the state it is seen in today, as light from faraway hydrogen clouds at an
 earlier stage of the Universe reach our present day much later than when the
 light was generated.
 
----
+##  
 
 While radio astronomy is perhaps the most widely used tool in probing the Epoch
 of Reionization, this article would be remiss in not briefly mentioning visible
@@ -151,7 +156,7 @@ from this era very dim and hard to detect. Indeed, evidence for galaxies (the
 *smallest* structures visible at these distances and lookback times) looks
 something like this:
 
-<img src="{{ site.baseurl }}/assets/z10-vlt.jpg">
+<img src="{{ site.baseurl }}/assets/z10_vlt.jpg">
 
 Understandably, a great cover for *Nature* this does not make, and this is the
 cost of being the first generation to see so deeply into the Universe's history.
@@ -165,9 +170,15 @@ and GN-z11 (400 million years old); these very old galaxies, seen as they were
 about 13 billion years ago, complement the radio telescope findings of hydrogen
 to help compete a picture of the Universe in these early days.
 
+The understanding of the Epoch of Reionization is rapidly emerging, and with any
+luck, soon we will be able to pry back the lid a little more and capture this
+period in the Universe's history a little more. With any luck, we'll soon be
+able to live in the past just a little more.
+
+##  
 ---
 
 <img src="{{ site.baseurl }}/assets/atca.jpg">
 
-A planetary syzygy over the Australia Telescope Compact Array radio telescopes.
+A syzygy over the Australia Telescope Compact Array radio telescopes.
 
