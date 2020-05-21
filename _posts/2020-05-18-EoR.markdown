@@ -1,0 +1,109 @@
+---
+layout: default
+title:  "Epoch of Reionization"
+date:   2020-05-18 13:07:46 -0700
+categories: pizza
+---
+
+Indeed, in the beginning, the Universe was essentially without form. The Big
+Bang, a period in which the Universe expanded by huge factors, left a universe
+that was essentially isotropic (of the same shape no matter what orientation it
+was looked at) and smooth: every point in space was essentially
+indistinguishable from any other point in space.
+
+While the Big Bang itself was a very hot event that allowed enough energy to
+fuse together the building blocks in protons and neutrons and electrons into the
+atoms that would eventually build the Sun and our Solar System, the ensuing
+period afterwards saw the universe cool to the extent where this could no longer
+happen.
+
+This period, recombination, saw the opaque gas of ionized hydrogen (which was by
+far the most common atom created ine Big Bang) turn into molecular hydrogen, the
+kind that we recognize on Earth. This molecular hydrogen is clear (as one can
+readily see), and as such, the Universe became clear to light for the first time
+in its history, lifting the fog on the Universe to observers imposed since its
+birth.
+
+---
+
+The universe at this time is a huge volume of hydrogen of nearly even density.
+However, it is not quite perfectly even in density, a property reflected today
+in a snapshot of the recombination period called the Cosmic Microwave Background
+(CMB), which found that the Universe was warmer (very slightly) in some parts of
+the sky than others, and therefore slighly less dense, in the same way that the
+air in hot air balloons is less dense than the air around it. This slight lack
+of smoothness is essential in the creation of our very distinct and clearly not
+perfectly even Universe of today.
+
+As the Universe is not quite even in its density, it is allowed to clump
+together under the force of gravity into distinct clumps of hydrogen gas,
+allowing for the stage to be set for a Universe to be molded into its current
+form.
+
+---
+
+This is a contemporary protostar, a reasonable facsimile of what the earliest
+blooming stars in the Universe may have resembled. We cannot see individual
+stars form from this era, as they are some thirteen billion years in the past
+and therefore proportionally far away (due to the finite speed of light), but
+the physics are relatively similar now as they were in those early days.
+
+Protostars like this one gain energy from the speed gained by particles
+collapsing inwards on the nascent star, giving them the energy that allows for
+the beginning of nuclear fusion, lighting the Universe anew with ionizing
+radiation, creating the second ionized period of the Universe which we live in
+today. As such, this dawning of new light on the Universe is called the Epoch
+of Reionization.
+
+These early bloomers are the first glimpses of the Universe we know today, and
+their existence, as far as we know, was not very long: no stars from this
+original period seem to exist today, as they probably formed very large and have
+correspondingly short lifetimes. Like these stars, though, the Universe itself
+was living at a breakneck pace.
+
+At the time of about 300 hundred million years since the Big Bang, the Universe
+was an unrecognizable, smooth mush; five hundred million years later,
+a time period approximately as long as species such as horseshoe crab have
+existed on Earth, the Universe had become eminently recognizable to our own. It
+is this astounding progression that inspires the great deal of research that has
+gone into this time period of history, research that has been aided by some of
+the most impressive and expansive instrumentation in astronomy, instruments that
+rival other great feats of engineering for the most impressive works that
+humanity has wrought.
+
+---
+
+Perhaps the most famous radio telescope is Aricebo, located in Puerto Rico. Its
+thousand foot dish was one of the largest structures in the world when it was
+built, a structure worthy of being a backdrop for a James Bond film (GoldenEye).
+It has since been passed in its size by dishes such as the Five hundred meter
+Apeture Spherical Telescope (1600') in China, as well as by telescope arrays
+such as the Jansky Very Large Array (VLA), but the scale of any of these
+instruments is nearly unparalleled. These telescopes can be so big because they
+don't have to be precise to quite the same levels as optical telescopes, and in
+their size they allow for some incredibly fine resolution imaging of a very old
+Universe.
+
+Radio telescopes are particularly suitable for seeing the conditions of the
+universe, which can not only see the very faint backdrop of the fireball from
+which the Universe started, but also the tale told by a hint left in the quantum
+mechanics of the hydrogen atom.
+
+A fascinating and very useful property of the hydrogen atom, which makes up the
+vast majority of the Universe, is its 21 centimeter spin-flip transition.
+Essentially, the hydrogen atom can undergo a spontaneous reorganization of its
+magnetic poles, releasing a vibration in the form of light that is 21
+centimeters in wavelength. It is this rare and random vibration that radio
+telescopes can use to map out where neutral hydrogen atoms live and therefore
+where the stuff in the Universe is. This map of neutral hydrogen, that which has
+not been perturbed by intense starlight, is the map of how energy and matter was
+and is distributed through our universe.
+
+It is with these tools that humanity can see into its very origin story, with
+eyes a thousand feet wide that can gaze far back in time to the seething fire
+with which it was cast into existence as well as the murmurs of clumps of gas
+billions of years old. And it is with these tools that we have finally started
+to put the puzzle together, at least emperically, on some of our questions on
+how we all came to be.
+
+
