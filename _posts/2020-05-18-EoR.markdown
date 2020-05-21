@@ -16,11 +16,16 @@ hardware ever devised, this exciting period of the Universe is starting to come
 into view.
 
 ---
-##  
+
+<br/>
+<br/>
+
 *Now the earth was formless and void, and darkness was over the surface of the deep.*
 *And God said, “Let there be light,” and there was light.*
 *And God saw that the light was good, and He separated the light from the darkness.*
 --Genesis 1:2-4
+
+<br/>
 
 Indeed, in the beginning, the Universe was essentially formless and void. The Big
 Bang, a period in which the Universe expanded by untold factors, left a universe
@@ -41,7 +46,8 @@ of light, and as such, the Universe became clear to light for the first time
 in its history, lifting the fog on the Universe that had been imposed on
 observers since its birth.
 
-##  
+<br/>
+<br/>
 
 <img src="{{ site.baseurl }}/assets/wmap.jpg">
 
@@ -63,7 +69,8 @@ the Universe. The force now that is given sway in this uneven universe is one we
 experience every day: gravity. It is by the hand of gravity, then, that did the
 work of dividing the light from the dark to create the modern Universe.
 
-##  
+<br/>
+<br/>
 
 <img src="{{ site.baseurl }}/assets/hh24.jpg">
 
@@ -100,8 +107,8 @@ the most impressive and expansive instrumentation in astronomy, instruments that
 rival other great feats of engineering for the most impressive works that
 humanity has wrought.
 
-##  
-
+<br/>
+<br/>
 <img src="{{ site.baseurl }}/assets/arecibo.jpg">
 
 ---
@@ -145,7 +152,8 @@ the state it is seen in today, as light from faraway hydrogen clouds at an
 earlier stage of the Universe reach our present day much later than when the
 light was generated.
 
-##  
+<br/>
+<br/>
 
 While radio astronomy is perhaps the most widely used tool in probing the Epoch
 of Reionization, this article would be remiss in not briefly mentioning visible
@@ -175,7 +183,8 @@ luck, soon we will be able to pry back the lid a little more and capture this
 period in the Universe's history a little more. With any luck, we'll soon be
 able to live in the past just a little more.
 
-##  
+<br/>
+<br/>
 ---
 
 <img src="{{ site.baseurl }}/assets/atca.jpg">
