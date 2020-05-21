@@ -28,6 +28,8 @@ github_username: no-lex
 
 # Build settings
 theme: minima
+minima:
+  skin: solarized-dark
 plugins:
   - jekyll-feed
 
