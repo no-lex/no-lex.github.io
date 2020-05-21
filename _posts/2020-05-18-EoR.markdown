@@ -41,7 +41,7 @@ of light, and as such, the Universe became clear to light for the first time
 in its history, lifting the fog on the Universe that had been imposed on
 observers since its birth.
 
-![wmap](/assets/wmap.jpg)
+<img src="{{ site.baseurl }}/assets/wmap.jpg">
 
 ---
 
@@ -62,7 +62,7 @@ the Universe. The force now that is given sway in this uneven universe is one we
 experience every day: gravity. It is by the hand of gravity, then, that did the
 work of dividing the light from the dark to create the modern Universe.
 
-![hh24](/assets/hh24.jpg)
+<img src="{{ site.baseurl }}/assets/hh24.jpg">
 
 ---
 
@@ -97,7 +97,7 @@ the most impressive and expansive instrumentation in astronomy, instruments that
 rival other great feats of engineering for the most impressive works that
 humanity has wrought.
 
-![aricibo](/assets/arecibo.jpg)
+<img src="{{ site.baseurl }}/assets/arecibo.jpg">
 
 ---
 
@@ -130,7 +130,7 @@ starlight, is the map of how energy and matter was and is distributed through
 our universe, and as such is one of the keys to mapping out the Epoch of
 Reionization, and in doing so, the formative years of the Universe of today.
 
-![h21](/assets/h21.jpg)
+<img src="{{ site.baseurl }}/assets/h21.jpg">
 
 While this picture is swamped by our two nearest galaxies, the Milky Way and
 the Magellenic Clouds, its mapping of the neutral hydrogen is a key cog in
@@ -151,7 +151,7 @@ from this era very dim and hard to detect. Indeed, evidence for galaxies (the
 *smallest* structures visible at these distances and lookback times) looks
 something like this:
 
-![z10-vlt](/assets/z21-vlt.jpg)
+<img src="{{ site.baseurl }}/assets/z10-vlt.jpg">
 
 Understandably, a great cover for *Nature* this does not make, and this is the
 cost of being the first generation to see so deeply into the Universe's history.
@@ -167,7 +167,7 @@ to help compete a picture of the Universe in these early days.
 
 ---
 
-![atca](/assets/atca.jpg)
+<img src="{{ site.baseurl }}/assets/atca.jpg">
 
 A planetary syzygy over the Australia Telescope Compact Array radio telescopes.
 
