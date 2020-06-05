@@ -74,9 +74,10 @@ work of dividing the light from the dark to create the modern Universe.
 <br/>
 
 <img src="{{ site.baseurl }}/assets/hh24.jpg">
-Protostar Herbig–Haro 24 (Credit NASA, ESA, Hubble Heritage / Hubble-Europe Collaboration)
+Protostar Herbig–Haro 24 (Credit: NASA, ESA, Hubble Heritage / Hubble-Europe Collaboration)
 
 ---
+
 <br/>
 
 This is a contemporary protostar, a reasonable facsimile of what the earliest
@@ -158,7 +159,11 @@ to the points in the sky from where they came.
 <img src="{{ site.baseurl }}/assets/mwa.png">
 The MWA telescope (Credit: MWA)
 
+</br>
+
 ---
+
+</br>
 
 Radio telescopes are particularly suitable for seeing the conditions of the
 universe, which can not only see the very faint backdrop of the fireball from
@@ -178,7 +183,11 @@ starlight, is the map of how energy and matter was and is distributed through
 our universe, and as such is one of the keys to mapping out the Epoch of
 Reionization, and in doing so, the formative years of the Universe of today.
 
+</br>
+
 ---
+
+</br>
 
 Another particular piece of physics that bears mentioning here is the phenomenon
 of redshift. As we can see by the largeness of our current Universe compared to
@@ -225,7 +234,9 @@ understanding the Epoch of Reionization. The densities of neutral hydrogen gas
 in the Universe can tell astronomers how the Universe must have evolved to reach
 the state it is seen in today, as light from faraway hydrogen clouds at an
 earlier stage of the Universe reach our present day much later than when the
-light was generated.
+light was generated. This is seen in the coloration of the map, where the nearby
+hydrogen is represented in green and orange while the redshifted hydrogen is
+seen in violet.
 
 <br/>
 
@@ -243,6 +254,7 @@ from this era very dim and hard to detect. Indeed, evidence for galaxies (the
 something like this:
 
 <img src="{{ site.baseurl }}/assets/z10_vlt.jpg">
+<br/>
 Potential z=10 galaxy observation (Credit: R. Pello, D. Schaerer et al., VLT, ESO)
 
 Understandably, a great cover for *Nature* this does not make, and this is the
@@ -257,7 +269,11 @@ and GN-z11 (400 million years old); these very old galaxies, seen as they were
 about 13 billion years ago, complement the radio telescope findings of hydrogen
 to help compete a picture of the Universe in these early days.
 
+</br>
+
 ---
+
+</br>
 
 While the study of the EoR itself looks very much into the past, the fundamental
 objective shared with other sciences is not lost. Science, as a method, is the
@@ -271,9 +287,16 @@ science: to catch as large of a glimpse of the future as we can by rummaging
 through the past (a nice bonus for studying the EoR is that the "future" that it
 predicts also includes most of the history of the Earth).
 
-The understanding of the Epoch of Reionization is rapidly emerging, and with any
+In this glimpse we've gotten of the EoR we see our own birth: the transformation
+of a smooth universe into a clumpy, nonhomogeneous universe with the energy flow
+that makes life possible. Not only does this period of our history show the
+creation of our universe, but also the stars born of it would create the first
+heavy atoms which would go on to build the Earth and Solar System we live in
+today.
+
+Our understanding of the Epoch of Reionization is rapidly emerging, and with any
 luck, soon we will be able to pry back the lid a little more and capture this
-period in the Universe's history a little more. With any luck, we'll soon be
+period in the Universe's history a little better. With any luck, we'll soon be
 able to live in the past just a little more.∎
 
 <br/>
@@ -284,4 +307,3 @@ able to live in the past just a little more.∎
 ATCA (Credit: Graeme L. White & Glen Cozens (James Cook University))
 
 A syzygy over the Australia Telescope Compact Array radio telescopes.
-
