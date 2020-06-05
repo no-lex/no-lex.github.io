@@ -125,8 +125,8 @@ Ariciebo Telescope (Credit: Mario Roberto Durán Ortiz)
 Perhaps the most famous radio telescope is Aricebo, located in Puerto Rico. Its
 thousand foot dish was one of the largest structures in the world when it was
 built, a structure worthy of being a backdrop for a James Bond film (GoldenEye).
-It has since been passed in its size by dishes such as the Five hundred meter
-Apeture Spherical Telescope (1600') in China, as well as by telescope arrays
+It has since been surpassed in its diameter by the the Five hundred meter
+Apeture Spherical Telescope (FAST) in China, as well as by telescope arrays
 such as the Jansky Very Large Array (VLA), but the scale of any of these
 instruments is nearly unparalleled. These telescopes can be so big because they
 don't have to be precise to quite the same levels as optical telescopes, and in
@@ -155,7 +155,7 @@ this is impossible to do without a supercomputer, as all of space is emitting
 light at the telescope at the same time, which then has to be calculated back
 to the points in the sky from where they came.
 
-<img src="{{ site.baseurl }}/assets/mwa.jpg">
+<img src="{{ site.baseurl }}/assets/mwa.png">
 The MWA telescope (Credit: MWA)
 
 ---
