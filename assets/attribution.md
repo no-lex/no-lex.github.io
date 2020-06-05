@@ -4,3 +4,4 @@
 `h21.jpg` Benjamin Winkel & the HI4PI Collaboration APOD 2016-10-24
 `hh24.jpg` NASA, ESA, Hubble Heritage (STScI / AURA) / Hubble-Europe Collaboration APOD 2015-12-18
 `z10_vlt.jpg`  R. Pello (Midi-Pyrénées), D. Schaerer (Geneva Obs.) et al., VLT, ESO APOD 2004-03-17
+`mwa.jpg` MWA organization (mwatelescope.org)

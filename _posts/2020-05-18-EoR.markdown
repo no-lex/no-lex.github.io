@@ -6,8 +6,8 @@ categories: pizza
 ---
 
 
-The Epoch of Reionization is, in a sense, the beginning of the Universe proper,
-a time which the Universe gained order, form, and diversity it had not
+The Epoch of Reionization (EoR) is, in a sense, the beginning of the Universe
+proper, a time which the Universe gained order, form, and diversity it had not
 previously had. This period was arguably the most important part of the Universe's
 history despite its short reign spanning from about 400 million years after the
 Big Bang up until approximately the billionth year of the Universe, and it is
@@ -48,19 +48,20 @@ observers since its birth.
 <br/>
 
 <img src="{{ site.baseurl }}/assets/wmap.jpg">
+WMAP's map of the CMB (Credit: WMAP Science Team, NASA)
 
 ---
 
 <br/>
 
-The universe at this time is a huge volume of hydrogen of nearly even density.
-However, it is not quite perfectly even in density, a property reflected today
+The universe at this time is a huge volume of hydrogen of nearly uniform density.
+However, it is not quite perfectly uniform in density, a property reflected today
 in a snapshot of the recombination period called the Cosmic Microwave Background
 (CMB), which found that the Universe was warmer (very slightly) in some parts of
 the sky than others, and therefore slighly less dense, in the same way that the
 air in hot air balloons is less dense than the air around it. This slight lack
 of smoothness is essential in the creation of our very distinct and clearly not
-perfectly even Universe of today.
+perfectly smooth Universe of today.
 
 Why it is only a part per ten thousand away from being smooth while not being
 perfectly smooth is not known, as are many other questions about the reasons why
@@ -73,6 +74,7 @@ work of dividing the light from the dark to create the modern Universe.
 <br/>
 
 <img src="{{ site.baseurl }}/assets/hh24.jpg">
+Protostar Herbig–Haro 24 (Credit NASA, ESA, Hubble Heritage / Hubble-Europe Collaboration)
 
 ---
 <br/>
@@ -88,7 +90,10 @@ collapsing inwards on the nascent star, giving them the energy that allows for
 the beginning of nuclear fusion, lighting the Universe anew with intense
 radiation capable once again of imparting enough energy into nearby hydrogen
 atoms to drive them into an ionized state, creating an epoch of reionization of
-the universe, creatively called the Epoch of Reionication by astronomers.
+the universe. While the Epoch of Reionization is merely the period when this
+first occured throughout the Universe, the reionized universe created during the
+EoR is the same one we see today; there have been no changes to the general form
+of the Universe in the 13 billion years that follow it.
 
 These early bloomers are the first glimpses of the Universe we know today, and
 their existence, as far as we know, was not very long: no stars from this
@@ -111,6 +116,7 @@ humanity has wrought.
 <br/>
 
 <img src="{{ site.baseurl }}/assets/arecibo.jpg">
+Ariciebo Telescope (Credit: Mario Roberto Durán Ortiz)
 
 ---
 
@@ -126,6 +132,33 @@ instruments is nearly unparalleled. These telescopes can be so big because they
 don't have to be precise to quite the same levels as optical telescopes, and in
 their size they allow for some incredibly fine resolution imaging of a very old
 Universe.
+
+While the Aricebo telescope is likely the most famous radio telescope, it is no
+longer the candle-bearer which illuminates the cutting edge of our EoR
+understanding. The current standard in very low-wavelength astronomy such as
+that needed to see into the past. Two of the most state-of-the art instruments
+in radio astronomy, HERA and MWA, do not look like telescopes at all, and it
+would not be entirely surprising to confuse them with some other non-scientific
+apparatus.
+
+These telescopes are not imaging telescopes in the way that a dish-type
+telescope is; instead, they belong to a distinct class of telescope that relies
+on a measurement method called interferometry. Interferometry is a significantly
+more computationally expensive means of looking into space by relying on the
+wave-like property of light to detect how much out-of-phase two antennas located
+some distance away from each other are.
+
+For a single point source, this is fairly easy, the calculations relying on some
+trigonometry to calculate the location in the sky an object must be due to the
+slight phase difference between differing antennas. For an entire sky, however,
+this is impossible to do without a supercomputer, as all of space is emitting
+light at the telescope at the same time, which then has to be calculated back
+to the points in the sky from where they came.
+
+<img src="{{ site.baseurl }}/assets/mwa.jpg">
+The MWA telescope (Credit: MWA)
+
+---
 
 Radio telescopes are particularly suitable for seeing the conditions of the
 universe, which can not only see the very faint backdrop of the fireball from
@@ -145,7 +178,46 @@ starlight, is the map of how energy and matter was and is distributed through
 our universe, and as such is one of the keys to mapping out the Epoch of
 Reionization, and in doing so, the formative years of the Universe of today.
 
+---
+
+Another particular piece of physics that bears mentioning here is the phenomenon
+of redshift. As we can see by the largeness of our current Universe compared to
+the tiny point where the Big Bang occured, the space we inhabit has grown quite
+a bit over the years. The fact that the Universe itself has grown larger means
+that waves, such as light, also get bigger with time along with it, drawing
+their wavelength out and lowering their energy. As the longest wavelength part
+of the visible spectrum is red, this phenomenon is termed "redshift".
+
+Redshift is both a blessing and a curse for looking into the early Universe and
+the EoR. Because light created at different times (wherein the Universe is of a
+different size) is correspondingly affected differently by this redshift effect,
+redshift is an excellent tool to seperate how old and how far away events are by
+the wavelength of particular emissions such as the 21 centimeter line mentioned
+earlier.
+
+The Epoch of Reionization itself occured around a redshift in the neighborhood
+of 10: the Universe was ten times smaller than it is today, making the 21cm line
+emitted at the time to grow to 2.1 meters as we see it in telescopes on Earth.
+2.1 meters is a very low energy wavelength, with a characteristic energy about
+four million times less than that of visible light, making it incredibly faint
+and hard to pick up.
+
+To add to the difficulty of this situation, it is at this moment that it should
+be mentioned that the two-meter band of radio signals is one shared by another
+phenomenon. Sadly, this phenomenon is nowhere near as cool as the flight path of
+light leaving clouds of gas formed at the dawn of the Universe, and additionally
+is one that the forces of the scientific community have been unable to quash
+over its many years of existence.
+
+The phenomenon, of course, is television. Television broadcasts occupy the meat
+of the EoR frequency range, greatly overpowering the light that filters in from
+billions of light-years away. It is for this reason that scientists must flee
+to the most remote regions of the world they can find, and the result is that
+the two interferometric telescopes aformentioned inhabit very sparse parts of
+South Africa and Austrailia, respectively.
+
 <img src="{{ site.baseurl }}/assets/h21.jpg">
+Map of the 21cm radio sky (Credit: Benjamin Winkel & the HI4PI Collaboration)
 
 While this picture is swamped by our two nearest galaxies, the Milky Way and
 the Magellenic Clouds, its mapping of the neutral hydrogen is a key cog in
@@ -171,6 +243,7 @@ from this era very dim and hard to detect. Indeed, evidence for galaxies (the
 something like this:
 
 <img src="{{ site.baseurl }}/assets/z10_vlt.jpg">
+Potential z=10 galaxy observation (Credit: R. Pello, D. Schaerer et al., VLT, ESO)
 
 Understandably, a great cover for *Nature* this does not make, and this is the
 cost of being the first generation to see so deeply into the Universe's history.
@@ -184,6 +257,20 @@ and GN-z11 (400 million years old); these very old galaxies, seen as they were
 about 13 billion years ago, complement the radio telescope findings of hydrogen
 to help compete a picture of the Universe in these early days.
 
+---
+
+While the study of the EoR itself looks very much into the past, the fundamental
+objective shared with other sciences is not lost. Science, as a method, is the
+task of looking at past events (in non astronomical sciences, usually set up as
+an experiment) to draw conclusions that illuminate how existence works for later
+times where we may want to predict something.
+
+The study of the EoR, in particular, has its data collected from events very,
+very far in the past, but the goal of this study remains the same as other
+science: to catch as large of a glimpse of the future as we can by rummaging
+through the past (a nice bonus for studying the EoR is that the "future" that it
+predicts also includes most of the history of the Earth).
+
 The understanding of the Epoch of Reionization is rapidly emerging, and with any
 luck, soon we will be able to pry back the lid a little more and capture this
 period in the Universe's history a little more. With any luck, we'll soon be
@@ -194,6 +281,7 @@ able to live in the past just a little more.∎
 ---
 
 <img src="{{ site.baseurl }}/assets/atca.jpg">
+ATCA (Credit: Graeme L. White & Glen Cozens (James Cook University))
 
 A syzygy over the Australia Telescope Compact Array radio telescopes.
 
